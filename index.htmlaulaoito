@@ -1,0 +1,60 @@
+<html>
+
+    <head>
+        <title>
+            soueuthiagooliveira
+        </title>
+    </head>
+
+    <body>
+
+        <h1>AULA OITO DE HTML</h1>
+        <hr>
+
+        <h2>Como você se chama?</h2>
+    
+    <p> 
+    Meu nome é <strong>Thiago</strong>
+    </p> 
+    
+        <h2>Qual sua idade?</h2>
+
+    <p>
+    Eu tenho 35 anos
+    </p>
+
+        <h2>Qual sua Profissão?</h2>
+
+    <p>
+    Sou eletricista automotivo, mas<br>
+    hoje faço curso de desenvolvimento de software<br>
+    na <strong>EU CODO</strong> com o professor Charles.
+    </p>
+
+        <h2>Tem filhos?</h2>
+
+    <p>
+    Sim tenho 02 filhos a <strong>Geovanna</strong>e o<strong>Natan</strong>
+    </p>
+
+        <h2>Conte o que aprendeu hoje na aula</h2>
+
+    <p>
+    Na aula de hoje o professor Charles ensinou algumas tags usadas em HTML.<br>
+    Por exemplo a tag <strong>h1</strong> normalmente usada em títulos grandes em páginas de internet.<br>
+    e nos mostrou um site muito interessante que ensina sobre diversas tags e como utiliza-las corretamente<br>
+    em caso de dúvidas.
+    </p>
+
+        <h3> Encerre Como Quiser </h3>
+
+    <p>
+    Para finalizar quero dizer que recomendo o treinamento da <strong>EU CODO</strong><br>
+    Além do professor explicar tudo de forma objetiva, ele encontrou um jeito simples de ensinar<br>
+    o que facilita demais a absorção do conteúdo.<br>
+    Meu site ainda está simples pois o módulo esta só começando, mas continuem avançando e<br>
+    acompanhem minha evolução.
+    </p><br>
+
+    Muito Obrigado por me acompanhar até aqui<br>
+    Thiago Oliveira.
